@@ -4,6 +4,10 @@ Repositório de exemplo para o artigo [Playwright - vantagens e comparação ao 
 
 By https://testingwithrenata.com/
 
+Playwright v1.31.2
+Node v19.8.1
+npm v9.5.1
+
 ## Configuração e execução do projeto
 
 Em seu terminal, rode:
