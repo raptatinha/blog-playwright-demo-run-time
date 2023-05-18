@@ -1,8 +1,8 @@
 # blog-playwright-demo-run-time
 
-Repositório de exemplo para o artigo [Playwright - vantagens e comparação ao Cypress](https://testingwithrenata.com/?p=637)
+Repositório de exemplo para o artigo [Playwright - vantagens e comparação ao Cypress](https://testingwithrenata.com/blog/test-automation/playwright-vantagens-e-comparacao-ao-cypress/)
 
-By https://testingwithrenata.com/
+Por [Renata Andrade](https://www.linkedin.com/in/raptatinha/)
 
 - Playwright v1.31.2
 - Node v19.8.1
